@@ -1,5 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100..900;1,100..900&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Source+Code+Pro:ital,wght@0,200..900;1,200..900&display=swap');
+
 body {
-    /*font-family: 'Bear Sans UI';*/
+    font-family: 'Open Sans', sans-serif;
     font-style: normal;
     color: #444444
 }
